@@ -11,7 +11,7 @@ This file starts the notes for supply-voltage-based low-power design.
 
 ## Index
 
-1. [Image 1: Supply voltage scaling video sequence](#image-1-supply-voltage-scaling-video-sequence)
+1. [Supply voltage scaling video sequence](#supply-voltage-scaling-video-sequence)
 2. [Definition of supply voltage scaling](#definition-of-supply-voltage-scaling)
 3. [Why reducing VDD saves power](#why-reducing-vdd-saves-power)
 4. [Image 2: Device feature size scaling](#image-2-device-feature-size-scaling)
@@ -41,9 +41,9 @@ This file starts the notes for supply-voltage-based low-power design.
 28. [Short exam answer](#short-exam-answer)
 29. [Sources used](#sources-used)
 
-## Image 1: Supply Voltage Scaling Video Sequence
+## Supply Voltage Scaling Video Sequence
 
-![Supply voltage scaling video list lectures 22 and 23](Images/supply-voltage-scaling-video-list-lectures-22-23.png)
+No local screenshot for this video-list item is currently present in `Images/`. The topic sequence is kept here as a reference because it explains why the notes are split across several voltage-scaling subtopics.
 
 ### What This Image Shows
 

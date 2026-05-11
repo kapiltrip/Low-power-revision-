@@ -835,6 +835,10 @@ Operand isolation is a low-power technique used in the combinational part of a c
 
 ![Pre-computation comparator XOR input disable](Images/precomputation-comparator-xor-input-disable-clear.png)
 
+Duplicate capture of the same pre-computation slide:
+
+![Pre-computation comparator XOR input disable duplicate](Images/precomputation-comparator-xor-input-disable.png)
+
 ### Definition Of Pre-Computation
 
 Pre-computation is a low-power sequential logic technique where a small amount of logic predicts or determines the output early for some input conditions. If the output can be determined early, part of the original larger logic can be disabled in the next cycle.
