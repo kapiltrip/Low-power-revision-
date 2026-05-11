@@ -13,9 +13,7 @@ These are the working rules I will follow for this folder and for future exam no
 
 For every image used in notes:
 
-1. Link the image directly in markdown using this format:
-
-   `![Meaningful title](Images/image-name.png)`
+1. Link the image directly in markdown using the normal image format: exclamation mark, alt text in brackets, and the `Images/...png` path in parentheses.
 
 2. Give each image a clear heading.
 3. Start each image explanation with the definition of the exact concept shown in that image. For example, if the image is about Gray code, first write "Definition of Gray coding" before explaining the diagram.
